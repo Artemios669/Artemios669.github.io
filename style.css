@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Morpha'; 
 	src: local('Morpha'),
-		url(/MyWebProject/Morpha.otf); 
+		url(./Morpha.otf);
 }
 
 body {
